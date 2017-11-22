@@ -1,0 +1,5 @@
+cron:
+- description: every min write string
+  url: /pubsub/pull?token=abcdef
+  target: beta
+  schedule: every 1 mins

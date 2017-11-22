@@ -1,0 +1,10 @@
+Flask==0.12.2
+google-cloud-pubsub==0.29.0
+gunicorn==19.7.1
+google-api-python-client
+oauth2client==3
+pandas
+google-cloud-logging
+pandas-gbq
+plotly
+utils
